@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Carlos 👋
+- 🎓 I'm graduated in technology in internet systems at [IFSul](http://passofundo.ifsul.edu.br/)
+- 💻 I'm a master's student in Computer Science at [PUCRS](https://www.pucrs.br/politecnica/programa-de-pos-graduacao-em-ciencia-da-computacao/)
+
+---
 
 <!--
 **carloshkayser/carloshkayser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
