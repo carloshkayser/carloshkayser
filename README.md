@@ -1,5 +1,5 @@
 ### Hi there, I'm Carlos 👋
-- 🎓 I'm graduated in Internet Systems technologist at [IFSul](http://passofundo.ifsul.edu.br/)
+- 🎓 I'm graduated in Technology in Internet Systems at [IFSul](http://passofundo.ifsul.edu.br/)
 - 💻 I'm a master's student in Computer Science at [PUCRS](https://www.pucrs.br/politecnica/programa-de-pos-graduacao-em-ciencia-da-computacao/)
 
 ---
