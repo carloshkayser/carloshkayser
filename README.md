@@ -17,7 +17,7 @@ Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazi
 
 **Technologist in Internet Systems**
 <br/>
-Sul-Rio-Grandense Federal Institute (IFSUL) • Passo Fundo, RS, Brazil • 2019
+Sul-Rio-Grandense Federal Institute (IFSUL), Passo Fundo, RS, Brazil • 2019
 
 <!-- <br/> -->
 
@@ -35,4 +35,4 @@ Journal of Parallel and Distributed Computing, Volume 163, May 2022, Pages 269-2
 
 **Software Developer**
 <br/>
-Compasso Tecnologia Ltda, Porto Alegre, RS, Brazil • 2017 - 2020
+Compasso Tecnologia Ltda, Passo Fundo, RS, Brazil • 2017 - 2020
