@@ -1,20 +1,37 @@
-### Hi there, I'm Carlos 👋
-- 🎓 I'm graduated in Technology in Internet Systems at [IFSul](http://passofundo.ifsul.edu.br/)
-- 💻 I'm a master's student in Computer Science at [PUCRS](https://www.pucrs.br/politecnica/programa-de-pos-graduacao-em-ciencia-da-computacao/)
+## About me
 
----
+I am currently a Ph.D. student in **Computer Science** at Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil, in the [**Network, Infrastructure and Cloud Computing Research Group (GRIN)**](https://grin-pucrs.github.io) led by [Prof. Dr. Tiago Ferreto](https://github.com/tiagoferreto).
 
-<!--
-**carloshkayser/carloshkayser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <br/> -->
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ph.D. student in Computer Science**
+<br/>
+Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil • Currently
+
+**M.Sc. in Computer Science**
+<br/>
+Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil • 2022
+
+**Technologist in Internet Systems**
+<br/>
+Sul-Rio-Grandense Federal Institute (IFSUL) • Passo Fundo, RS, Brazil • 2019
+
+<!-- <br/> -->
+
+<!-- ## Publications
+
+**Title**
+<br/>
+*Authors*
+<br/>
+Journal of Parallel and Distributed Computing, Volume 163, May 2022, Pages 269-282
+
+<br/> -->
+
+## Industry experience
+
+**Software Developer**
+<br/>
+Compasso Tecnologia Ltda, Porto Alegre, RS, Brazil • 2017 - 2020
