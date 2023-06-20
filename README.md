@@ -3,6 +3,8 @@
 I am currently a Ph.D. student in **Computer Science** at Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil, in the 
 <a href="https://grin-pucrs.github.io" target="_blank">Network, Infrastructure and Cloud Computing Research Group (GRIN)</a> led by [Prof. Dr. Tiago Ferreto](https://github.com/tiagoferreto).
 
+I am currently focused on optimizing **distributed data stream processing applications** on edge and fog computing.
+
 <!-- <br/> -->
 
 ## Education
