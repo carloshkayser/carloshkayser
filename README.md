@@ -15,7 +15,7 @@ Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazi
 <br/>
 Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil • 2022
 
-**Technologist in Internet Systems**
+**Technology in Internet Systems**
 <br/>
 Sul-Rio-Grandense Federal Institute (IFSUL), Passo Fundo, RS, Brazil • 2019
 
