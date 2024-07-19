@@ -15,23 +15,30 @@ Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazi
 <br/>
 Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil • 2022
 
-**Technology in Internet Systems**
+**Technologist Degree in Internet Systems (TSPI)**
 <br/>
-Sul-Rio-Grandense Federal Institute (IFSUL), Passo Fundo, RS, Brazil • 2019
+Federal Institute Sul-Rio-Grandense (IFSUL), Passo Fundo, RS, Brazil • 2019
 
 ## Experience
+
+<!-- 
+**Research Internship**
+<br/>
+École de Technologie Supérieure (ÉTS), Montreal, Canada • 2024 - Currently
+-->
 
 **Research Member**
 <br/>
 [Network, Infrastructure, and Cloud Computing Research Group (GRIN)](https://grin-pucrs.github.io/) at PUCRS, Porto Alegre, Brazil • 2020 - Currently
 
-**Software Developer**
+**Software & Data Engineer**
 <br/>
 Compasso Tecnologia Ltda, Passo Fundo, RS, Brazil • 2017 - 2020
 
-<!-- <br/> -->
+<!-- 
+<br/>
 
-<!-- ## Publications
+## Publications
 
 **Title**
 <br/>
@@ -39,4 +46,5 @@ Compasso Tecnologia Ltda, Passo Fundo, RS, Brazil • 2017 - 2020
 <br/>
 Journal of Parallel and Distributed Computing, Volume 163, May 2022, Pages 269-282
 
-<br/> -->
+<br/>
+-->
