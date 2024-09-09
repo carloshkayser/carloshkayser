@@ -9,9 +9,13 @@ Currently, I am focused on optimizing **Distributed Data Stream Processing Appli
 
 **Ph.D. in Computer Science**
 <br/>
+_Parallel and Distributed Systems_
+<br/>
 Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil • Currently
 
 **M.Sc. in Computer Science**
+<br/>
+_Parallel and Distributed Systems_
 <br/>
 Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil • 2022
 
