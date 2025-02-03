@@ -1,6 +1,6 @@
 ## About me
 
-I am currently a Ph.D. student in **Computer Science** at the Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil, in the 
+I am currently a Ph.D. candidate in **Computer Science** at the Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil, in the 
 <a href="https://grin-pucrs.github.io" target="_blank">Network, Infrastructure, and Cloud Computing Research Group (GRIN)</a> led by [Prof. Dr. Tiago Ferreto](https://github.com/tiagoferreto).
 
 Currently, I am focused on optimizing **Distributed Data Stream Processing Applications on Edge Computing**, advised by [Prof. Dr. Tiago Ferreto](https://github.com/tiagoferreto) (PUCRS) and [Prof. Dr. Marcos Assunção](https://www.marcosassuncao.com/) (ÉTS).
@@ -25,15 +25,17 @@ Federal Institute Sul-Rio-Grandense (IFSUL), Passo Fundo, RS, Brazil • 2019
 
 ## Experience
 
-<!-- 
 **Research Internship**
 <br/>
+[Computer System Architecture Research Laboratory (LASI)](https://www.etsmtl.ca/en/labs/lasi)
+<br/>
 École de Technologie Supérieure (ÉTS), Montreal, Canada • 2024 - Currently
--->
 
 **Research Member**
 <br/>
-[Network, Infrastructure, and Cloud Computing Research Group (GRIN)](https://grin-pucrs.github.io/) at PUCRS, Porto Alegre, Brazil • 2020 - Currently
+[Network, Infrastructure, and Cloud Computing Research Group (GRIN)](https://grin-pucrs.github.io/)
+<br/>
+Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil • 2020 - Currently
 
 **Software & Data Engineer**
 <br/>
