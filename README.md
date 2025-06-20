@@ -29,7 +29,7 @@ Federal Institute Sul-Rio-Grandense (IFSUL), Passo Fundo, RS, Brazil • 2019
 <br/>
 [Computer System Architecture Research Laboratory (LASI)](https://www.etsmtl.ca/en/labs/lasi)
 <br/>
-École de Technologie Supérieure (ÉTS), Montreal, Canada • 2024 - Currently
+École de Technologie Supérieure (ÉTS), Montreal, Canada • 2024 - 2025
 
 **Research Member**
 <br/>
@@ -39,7 +39,7 @@ Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazi
 
 **Software & Data Engineer**
 <br/>
-Compasso Tecnologia Ltda, Passo Fundo, RS, Brazil • 2017 - 2020
+Compass UOL, Passo Fundo, RS, Brazil • 2017 - 2020
 
 <!-- 
 <br/>
